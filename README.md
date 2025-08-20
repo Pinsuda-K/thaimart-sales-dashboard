@@ -24,6 +24,7 @@ This project gave me the opportunity to:
 - Identify high-margin product categories and customer behavior patterns
 
 ### Key Features
+![Dashboard](./images/dashboard_thaimart.png)
 | Item | Description |
 |------|---------------------------------------------|
 | KPI Cards |- Total Sales / Total Profit / Avg Order Value *(ยอดขายรวม / กำไรรวม / มูลค่าต่อบิลเฉลี่ย)* |
@@ -35,10 +36,14 @@ This project gave me the opportunity to:
 
 ---
 ### Key Insights (Example Findings)
-- Ready-to-eat category sales **grew +18%** after the Songkran promotion (Apr–Jun vs Q1)  
-- **Total profit** remained higher in Q2 even with lower promotion margins → effective campaign  
-- **Snacks** category has the highest **profit margin** (~32%)  
-- **Non-member** customers spend ~12% **less per order** compared to members
+- Ready-to-eat category sales declined by 19.3% in Q2 (Apr–Jun) compared to Q1.
+- Total profit in Q2 was slightly lower (−0.9%) than Q1, suggesting that the Songkran campaign helped sustain performance despite lower promotion margins.
+- Personal care has the highest profit margin (~20.9%), while snacks have the lowest (~12.5%).
+- Non-members spend about 2.8% more per order than members, contrary to expectations.
+- ยอดขายหมวดอาหารพร้อมทานในไตรมาส 2 (เม.ย.–มิ.ย.) ลดลง 19.3% เมื่อเทียบกับไตรมาส 1
+- กำไรรวม ในไตรมาส 2 ลดลงเล็กน้อย (−0.9%) เมื่อเทียบกับไตรมาส 1 สะท้อนว่าแคมเปญสงกรานต์ยังช่วยรักษากำไรได้แม้จะมีมาร์จิ้นจากโปรโมชันที่ต่ำลง
+- หมวดของใช้ส่วนตัวมีอัตรากำไรสูงสุด (~20.9%) ในขณะที่หมวดขนมมีอัตรากำไรต่ำที่สุด (~12.5%)
+- ลูกค้าทั่วไป (ไม่เป็นสมาชิก) ใช้จ่ายต่อคำสั่งซื้อโดยเฉลี่ย มากกว่าลูกค้าที่มีสมาชิกประมาณ 2.8% ซึ่งขัดกับที่คาดไว้
 > หมายเหตุ: สามารถปรับ Filter (เช่น ประเภทสินค้า / สาขา / ลูกค้า) เพื่อสำรวจ Insight เพิ่มเติมได้
 
 ---
