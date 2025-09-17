@@ -9,7 +9,7 @@
 > BI project built for practices, data analysis and visualization, using Google Looker Studio.
 
 ### Why I Built this
-I created this mock BI project to practice, simulate end-to-end BI workflow, turning raw transactions to cleaning and organizing using Google Sheet to interactive dashboard and creating insight using Looker Studio.  
+I created this mock BI project to practice and simulate end-to-end BI workflow, turning raw transactions cleaned and organized using Google Sheets into an interactive dashboard and creating insight using Looker Studio.
 
 โปรเจกต์นี้ทำขึ้นเพื่อฝึกจำลองสถานการณ์จริง (เช่น โปรโมชั่นตามช่วงเวลา/เทศกาล, พฤติกรรมของลูกค้าแบบสมาชิก/ทั่วไป, เปรียบเทียบยอดขาย Q1 และ Q2) และช่วยฝึกการนำเสนอข้อมูลผ่าน Looker Studio เพื่อให้ผู้บริหารสามารถตีความข้อมูลได้ง่าย
 
