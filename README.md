@@ -57,7 +57,6 @@ This project gave me the opportunity to:
 
 - Google Looker Studio (Dashboard & Visualization)
 - Google Sheets (Data cleaning and enrichment)
-- ChatGPT (Prompt-based business insight guidance)
 ---
 ### Dataset (Mock)
 | Field | Description |
